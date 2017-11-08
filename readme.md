@@ -1,3 +1,3 @@
 # 表紙
 
-[リファレンス]TechNoteRefLink.md
+[リファレンス](TechNoteRefLink.md)
