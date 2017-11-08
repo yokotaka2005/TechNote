@@ -6,3 +6,6 @@ https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e
 
 # git push がrejectされた時の対応方法
 https://www.softel.co.jp/blogs/tech/archives/3569
+
+# github pagesの利用方法入門
+http://karaage.hatenadiary.jp/entry/2017/09/06/073000
