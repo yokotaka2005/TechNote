@@ -9,3 +9,6 @@ https://www.softel.co.jp/blogs/tech/archives/3569
 
 # github pagesの利用方法入門
 http://karaage.hatenadiary.jp/entry/2017/09/06/073000
+
+# PowerShell で tail -fのやり方
+http://tech.guitarrapc.com/entry/2013/04/15/220408
