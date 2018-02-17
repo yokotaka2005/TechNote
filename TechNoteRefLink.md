@@ -22,7 +22,8 @@ http://tech.guitarrapc.com/entry/2013/04/15/220408
 
 #そのほか
 # MarkDown の書き方
-https://qiita.com/Qiita/items/c686397e4a0f4f11683d
+https://qiita.com/Qiita/items/c686397e4a0f4f11683d  
+https://qiita.com/oreo/items/82183bfbaac69971917f
 
 # Visual Studio Code関連
 ## Visual Studio Codeの自動整形の設定参考
