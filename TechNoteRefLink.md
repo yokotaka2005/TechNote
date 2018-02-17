@@ -27,10 +27,13 @@ https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 http://devadjust.exblog.jp/23791887/
 
 ## Visual Studio Code 基本のキ
-http://www.atmarkit.co.jp/ait/subtop/features/dotnet/all.html#xe789b9e99b86efbc9aVisualStudioCodee697a9e58886e3818be3828ae382ace382a4e38389
+http://www.atmarkit.co.jp/ait/subtop/features/dotnet/all.html#xeｖ789b9e99b86efbc9aVisualStudioCodee697a9e58886e3818be3828ae382ace382a4e38389
 
 ## Visual Studio Code キーボードショートカット
 https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b
 
 ### 言語モードの選択
 Ctrl+K M
+
+### マークダウンのプレビュー表示
+Ctrl+K V
