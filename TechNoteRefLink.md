@@ -14,8 +14,10 @@ https://www.softel.co.jp/blogs/tech/archives/3569
 ## github pagesの利用方法入門
 http://karaage.hatenadiary.jp/entry/2017/09/06/073000
 
-# PowerShell関連
-## PowerShell で tail -fのやり方
+# github proxy経由での接続方法
+http://sushichop.blogspot.jp/2013/09/git.html
+
+# PowerShell で tail -fのやり方
 http://tech.guitarrapc.com/entry/2013/04/15/220408
 
 #そのほか
