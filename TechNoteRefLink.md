@@ -5,6 +5,9 @@ https://github.com/takanabe/introduction-to-git
 ## Gitで差分を見る方法
 https://qiita.com/shibukk/items/8c9362a5bd399b9c56be
 
+## Gitでカレントディレクトリ以下のファイルをaddする方法
+git add .
+
 ## ローカル内容をリモートリポジトリに送信する
 https://qiita.com/koshihikari/items/dcf126fa9c0de2b6fa7e
 
