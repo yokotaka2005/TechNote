@@ -50,3 +50,8 @@ http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html
 
 ## docker mysql 実行参考
 http://blog.snowcait.info/2017/02/20/mysql-on-windows-with-docker/
+
+# ガジェット関連
+## Windows10設定
+### ロジクールマウスのスリープ復帰の抑制
+https://rkkoga.com/the_method_which_does_not_carry_out_sleep_release_with_the_mouse_of_logicool/
